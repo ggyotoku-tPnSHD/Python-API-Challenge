@@ -5,6 +5,7 @@ __pycache__/
 
 # keys
 api_keys.py
+apy_keys.py
 
 # C extensions
 *.so
