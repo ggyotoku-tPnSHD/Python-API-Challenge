@@ -1,0 +1,3 @@
+1. City Latitude does not explain for max temperature with an r value of 0.05
+2. Latitude does not explain for wind speed with an r value of 0.11
+3. The strongest correlation is between latitude and max temperature with an r score of 0.71
